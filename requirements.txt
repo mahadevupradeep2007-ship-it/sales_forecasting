@@ -4,5 +4,4 @@ scikit-learn
 flask
 gunicorn
 kagglehub
-os
 matplotlib
